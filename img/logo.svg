@@ -1,0 +1,63 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="123" height="116" viewBox="0 0 123 116">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-size: 24px;
+        fill: #fff;
+        font-family: Lato;
+        font-weight: 700;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        filter: url(#filter-4);
+      }
+    </style>
+    <filter id="filter" x="200" y="-7" width="85" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-0.891" dy="0.454" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.325"/>
+      <feFlood result="flood" flood-color="#010101" flood-opacity="0.55"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="199" y="28" width="87" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-0.891" dy="0.454" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.325"/>
+      <feFlood result="flood" flood-color="#010101" flood-opacity="0.55"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="217" y="11" width="87" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-0.891" dy="0.454" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.325"/>
+      <feFlood result="flood" flood-color="#010101" flood-opacity="0.55"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="181" y="10" width="82" height="88" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-0.891" dy="0.454" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.325"/>
+      <feFlood result="flood" flood-color="#010101" flood-opacity="0.55"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="F" class="cls-1" transform="translate(58.237 40.712) scale(0.478 0.479)">F</text>
+  <text id="D" class="cls-2" transform="translate(57.437 75.625) scale(0.478 0.479)">D</text>
+  <text id="U" class="cls-3" transform="translate(75.584 59.283) scale(0.478 0.479)">U</text>
+  <text id="I" class="cls-4" transform="translate(39.778 58.492) scale(0.478 0.479)">I</text>
+  <image id="x" x="38" y="31" width="48" height="47" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAvCAYAAAClgknJAAACMUlEQVRogeWasWsUQRTGPxOIcEFSXXdl2qsP27MVwU7IXxDbNMFeOPIPhNQhYGElKSwkpBOxFDuxClqIhU0IF81Pnr6B5W7cvdzt3u3DgQ/u3nsz8/1Y7nZnZu8AXyW9lfRE0ljB2pqkN5IeS3opaSMagIB14IS/7RToAIqiZNQgjhziLBJE8Yv9Hg5bCnEXuJeJazJQhDgHtnKdlizz8BoYAZtVAAniwCHerRhiyz1Ye+7eKgGSRiuGKJofZfKVAEWI90A3k29KXZ+z1PwsAKZnPtCHJUF0fS587lzNrQBM+0uCKJrfz+SnNBUoUYL4CPRK6uZVz8ee2fxtAUxPfYJPNUP0fEx8jlxNVtlghXZrhiia383kS1WaLFGC+Axsl9RVadvHmMv8IgCmHeAXcDEnhPW58DF2MvnGARaBqMV8HQAJ4ifwBehn8pPqe631Wch8XQCmR8AY+FYB0feasffJ1awEYBaI2s3XDZAgroDvwKAQH3jsqk7zTQCYhsAl8MOND/zzpedyfebWn+frBtpQ0qmkGx/aNg8eSjprYlHflPaAG9deU/OEvwJrU5HFWzJ/LemB69pjw9pny12W//VfKPR9IPSdOPSzUOin0dDrgdArstBr4tC7EqH3hULvzIXeGw29Ox32fKCtJzQHs5zQtPWM7Nw9HU5C/Mt8204pO+5pCiIVRDgnLkIcuedwJ/Ud94h7XrfgsQdeARuZTm2TeTSv1o6jvq1iL6W8kHT/NwhD0vbhkoY7AAAAAElFTkSuQmCC"/>
+  <image id="fork" x="28" y="21" width="21" height="21" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAABOklEQVQ4jaWVvUrEQBSFj6so2Fgugo1YWKidIljY+Qp21sIKFvbbKxaCzcJ2YukDiCgWgn+tLIiVnesTaOcngzc6JBPnrl44YXLm3I9MJkOGADmqIWlZ0q037KkNSTeSWq50eFKHwoo6fFUrl68Yv8gNrhj8ABo1fhZcMUzPwBkwnpjLgiuGqWtNlw7wziDL7zjAh5ZpezfKAw7aLYPDZcSM0USDF7xvmc0COm/GRU2T91WcWmamMFcG2JhrYCKRWbD5bmwuOcAHlrmvAYdPsVc2c+B4Y1LgK+A11fQf8BPwmGr4K3ja7o9S4TL4LrHMFPjExoupYKy5qKmZmI/BofZyJ6rQrDW8AFvApPljwBpwbvM9zzGNNQX0oyd6j8YfwHac9/6jQg1LWpe0Kqkp6U3Sg6RjSf3vlKRPm3vO0VsJxKYAAAAASUVORK5CYII="/>
+  <image id="spoon" x="77" y="21" width="19" height="19" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAABZklEQVQ4jZWUzytEURiGnxkZmo1ZKCuiLGQjNKWUtZINWZBMsmLhnyD5A8hmrKxmo5S1jWywEEUpY2PSpGzEwsKrU9/VbebcY+5Xb7d73u99Oj/uPRlJtFCDpjbgBbgFmoMOFlBR0oOa61XSYmMuBFozxLukPUklSUuSdiRVzSu3Atuw5oqkgsfPSdq2nsMQLAIdSMp4/Li2rHfZB0sDimb4LKnu+uPGZkpQpF3LjUQDs7H1pwE5rVp2Jgt0AEfAE7Du/X7C1Wnut4NNA13AvhsIxvw1ac97Bxuyl4umtv+rD5gHLoGag+Us8pkSlAcqtsw5N+BgNTOHm9qTy4FOgQlg/I8hqddO48RzUj7lJZ1Zpuj7ncpmljzhuBJBcVhW0pukH0krHojTgKSrJJBT/D5rBx6BfuAaOAaqQAGYAhasZxS48e5mA93B3c/74bnDziV1h7Yh6aZ1MxgDeoAv4A6oB88X+AVtp8ZniZksSgAAAABJRU5ErkJggg=="/>
+</svg>
