@@ -1,0 +1,43 @@
+@media screen and (max-width: 680px) {
+
+	.section--cover .container {
+	padding-top: 12rem;
+	padding-bottom: 12rem;
+	}
+
+	.picture picture {
+	display: none;
+	}
+
+	#about .container {
+	flex-direction: column;
+	}
+
+	.text-about {
+	width: 100%;
+	}
+	
+	.mobile {
+	width: 100%;
+	padding-top: 1%;
+	}
+
+	.section--cusines .cusines--block {
+		flex-direction: column;
+	}
+
+	.cusine--block {
+		width: 100%;
+		background-size: contain;
+		background-position: 50% 50%;
+	}
+
+	.item--statistic {
+		width: 100%;
+	}
+
+	.slides {
+	width: 90%;
+	margin: 0 5%;
+	}
+}
