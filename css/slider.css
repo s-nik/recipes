@@ -42,16 +42,16 @@
 	height: 102px
 }
 
-backquote {
+blockquote {
 	display: inline-block;
 	font-size: 2.6vw;
 	margin: 3rem 0;
 	max-height: 3.5em;
-	fw
+	overflow: hidden;
 }
 
 .slides p {
-	font-size: 1.8rem;
+	font-size: 1.5vw;
 	margin-top: 0;
 	margin-bottom: 12rem;
 }
