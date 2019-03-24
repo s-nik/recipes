@@ -215,7 +215,7 @@ ul.menu::before {
 	font-weight: bold;
 }
 
-h2 {
+.section h2 {
 	font-size: 1.8rem;
 	position: relative;
 	align-items: center;
